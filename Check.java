@@ -23,4 +23,8 @@ public class Check extends Payment{
     public void setBankId(String bankId) {
         this.bankId = bankId;
     }
+
+    public void authorized(){
+
+    }
 }
