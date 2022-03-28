@@ -5,7 +5,5 @@ abstract class Payment {
         return amount;
     }
 
-    public void setAmount(float amount) {
-        this.amount = amount;
-    }
+    public void setAmount(float amount) {}
 }
